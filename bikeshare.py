@@ -118,7 +118,8 @@ def time_stats(df):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    """Displays statistics on the most popular stations and trip.
+    -- 20220320 This function will output the analysis results ran on the data set defined in the get_filters function above (Ishaan) --"""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
