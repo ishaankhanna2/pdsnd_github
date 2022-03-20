@@ -9,6 +9,8 @@ Bikeshare Python Analysis Project
 ### Description
 This project takes in bikeshare data accumulated from Chicago, Washington, & New York City and runs data analysis on it for trends.
 
+-- 20220320 As someone who lives in Chicago and uses Divvy bikes to get around the city, this project was extremely interesting to look into what type of data is stored for bikesharing as well as the conclusions that can be drawn from bikesharing data (Ishaan) --
+
 ### Files used
 The files being used are bikeshare.py, chicago.csv, new_york_city.csv, & washington.csv
 
