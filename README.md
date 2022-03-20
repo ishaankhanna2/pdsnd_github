@@ -1,17 +1,16 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+This project file bikeshare.py was created on 4/1/21 and this README.md file was modified on 03/20/22.
 
 ### Project Title
-Replace the Project Title
+This project is titled the BikeShare Data Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+This project takes in input bikeshare data from chicago, washington, and new york city and runs some analysis on the files. In order to run these programs, you need to have a python editor such as Atom.
 
 ### Files used
-Include the files used
+The files used in this project are bikeshare.py, new_york_city.csv, washington.csv, & chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project used the instructions provided by Udacity for Project 2 of the NanoDegree in Data Science Program
