@@ -10,6 +10,10 @@ def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
 
+    --20220320 update:
+    This command is essential for narrowing/filtering down the data set that we are analyzing for efficiency for runtime and efficiency (Ishaan)
+    --
+
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter

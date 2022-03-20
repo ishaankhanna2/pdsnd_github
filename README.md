@@ -4,13 +4,15 @@
 This project file bikeshare.py was created on 4/1/21 and this README.md file was modified on 03/20/22.
 
 ### Project Title
-This project is titled the BikeShare Data Analysis Project
+Bikeshare Python Analysis Project
 
 ### Description
-This project takes in input bikeshare data from chicago, washington, and new york city and runs some analysis on the files. In order to run these programs, you need to have a python editor such as Atom.
+This project takes in bikeshare data accumulated from Chicago, Washington, & New York City and runs data analysis on it for trends.
+
+-- 20220320 As someone who lives in Chicago and uses Divvy bikes to get around the city, this project was extremely interesting to look into what type of data is stored for bikesharing as well as the conclusions that can be drawn from bikesharing data (Ishaan) --
 
 ### Files used
-The files used in this project are bikeshare.py, new_york_city.csv, washington.csv, & chicago.csv
+The files being used are bikeshare.py, chicago.csv, new_york_city.csv, & washington.csv
 
 ### Credits
-This project used the instructions provided by Udacity for Project 2 of the NanoDegree in Data Science Program
+I referenced the udacity project 2 instructions to complete this project. This link is provided: https://classroom.udacity.com/nanodegrees/nd104/parts/cd0024/modules/c19a4acc-3de9-4ccb-9db0-2439fd5a8230/lessons/ls1727/concepts/a2e583a2-8a14-4324-aa2a-fc9b78d23caf
